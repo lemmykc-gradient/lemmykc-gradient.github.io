@@ -2,7 +2,39 @@
 layout: default
 ---
 
-Welcome to the Australian AI Safety Forum! 
+<img src="/mages/ai_header.webp" alt="AI Header" width="300">
+
+# About the Forum
+The Australian AI Safety Forum is a two-day interdisciplinary event scheduled for November 2024. This forum, the first of its kind in Australia, aims to discuss perspectives on technical AI safety and governance, and explore Australia's unique role in the global AI safety landscape. The event will be anchored around the International Scientific Report on the Safety of Advanced AI, highlighting its key content and examining its implications for Australia.
+
+The forum will encourage conversation and education between technical researchers, policy makers, and industry leaders. It aims to establish an Australian community working on problems of technical AI safety and governance, with the intention of becoming a regular event. By bringing together diverse perspectives, the forum hopes to inspire new collaborations and engage researchers who are interested in AI safety but have been unsure how to contribute.
+
+# Key Details
+
+**Date:** 7th-8th November 2024
+**Location:** Sydney Knowledge Hub, The University of Sydney
+**Format:** Two-day interdisciplinary conference, a mix of talks, panels and workshops. 
+
+# Participants
+The forum will gather professionals from various backgrounds, including:
+
+- Mathematics and Computer Science
+- Natural Sciences
+- Law and Public Policy
+- Policymakers
+- National Security and Cybersecurity
+- Finance and Telecommunications
+
+# Organisers
+This inaugural event is organised by the following committee: 
+- Tiberio Caetano, The Gradient Institute. 
+- Liam Carroll, The Gradient Institute and Timaeus. 
+- Daniel Murfet, The University of Melbourne. 
+- Greg Sadler, The Good Ancestors Project.
+- Kim Weatherall, The University of Sydney. 
+- Geordie Williamson, The University of Sydney. 
+
+We are grateful for the support of the Sydney Knowledge Hub. 
 
 <!-- Hello world! 
 
