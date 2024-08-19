@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Hello world! 
+Welcome to the Australian AI Safety Forum! 
+
+<!-- Hello world! 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -122,4 +124,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
