@@ -17,7 +17,7 @@ The forum will encourage conversation and education between technical researcher
 
 **Location:** Sydney Knowledge Hub, The University of Sydney
 
-**Format:** Two-day interdisciplinary conference, a mix of talks, panels and workshops.
+**Format:** Two-day interdisciplinary conference, a mix of talks, panels and workshops (detailed program TBD)
 
 
 # Participants
@@ -28,18 +28,18 @@ The forum will gather professionals from various backgrounds, including:
 - Law and Public Policy
 - Policymakers
 - National Security and Cybersecurity
-- Finance and Telecommunications
+- Industry (Finance, Telecommunications, etc.)
 
 # Organisers
 This inaugural event is organised by the following committee: 
-- Tiberio Caetano, The Gradient Institute. 
-- Liam Carroll, The Gradient Institute and Timaeus. 
+- Tiberio Caetano, Gradient Institute. 
+- Liam Carroll, Gradient Institute and Timaeus. 
 - Daniel Murfet, The University of Melbourne. 
 - Greg Sadler, The Good Ancestors Project.
 - Kim Weatherall, The University of Sydney. 
 - Geordie Williamson, The University of Sydney. 
 
-We are grateful for the support of the Sydney Knowledge Hub. 
+This event is done in partnership with the Sydney Knowledge Hub. 
 
 <!-- Hello world! 
 
