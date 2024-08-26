@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<p style="text-align: center;">
+<!-- <p style="text-align: center;">
   <img src="/images/ai_header.jpg" alt="AI Header" width="900">
-</p>
+</p> -->
 
 # About the Forum
 The Australian AI Safety Forum is a two-day interdisciplinary event scheduled for November 2024. This forum, the first of its kind in Australia, aims to discuss perspectives on technical AI safety and governance, and explore Australia's unique role in the global AI safety landscape. The event will be anchored around the International Scientific Report on the Safety of Advanced AI, highlighting its key content and examining its implications for Australia.
@@ -30,135 +30,27 @@ The forum will gather professionals from various backgrounds, including:
 - National Security and Cybersecurity
 - Industry (Finance, Telecommunications, etc.)
 
+# Forum Topics
+A non-exhaustive list of topics for discussion includes: 
+- **Foundations of AI safety**: What is AI safety, what is "alignment", and why does it matter?
+- **International AI safety landscape**: Introduction to the [International Scientific Report on the Safety of Advanced AI](https://assets.publishing.service.gov.uk/media/6655982fdc15efdddf1a842f/international_scientific_report_on_the_safety_of_advanced_ai_interim_report.pdf).
+- **Australia's role**: How can Australia contribute to global AI safety efforts? What are its unique strengths? 
+- **Technical AI safety**: What are the central technical research questions and how do they relate to policy? Are there blindspots in the current paradigm? 
+- **Science of AI**: What are the avenues to better understanding AI scientifically? 
+- **AI governance**: How does product regulation work for AI systems? What are the open problems in technical AI governance? 
+- **Evaluations for AI**: What are capabilities and how do we measure them?
+- **Safety engineering**: What can AI safety learn from other fields of product safety engineering? 
+- **Risk assessment**: What is "high-risk AI" and how do we address it?
+- **Cross-sector communication**: What communication channels should exist between technical researchers, policymakers, and industry? How can we talk to one another? 
+
 # Organisers
 This inaugural event is organised by the following committee: 
-- Tiberio Caetano, Gradient Institute. 
-- Liam Carroll, Gradient Institute and Timaeus. 
-- Daniel Murfet, The University of Melbourne. 
-- Greg Sadler, The Good Ancestors Project.
-- Kim Weatherall, The University of Sydney. 
-- Geordie Williamson, The University of Sydney. 
+- [Tiberio Caetano](https://www.gradientinstitute.org/about-us/team/tiberio-caetano/), [Gradient Institute](https://www.gradientinstitute.org). 
+- [Liam Carroll](https://www.gradientinstitute.org/about-us/team/liam-carroll/), [Gradient Institute](https://www.gradientinstitute.org) and [Timaeus](https://timaeus.co). 
+- [Daniel Murfet](http://therisingsea.org/), The University of Melbourne. 
+- Greg Sadler, [The Good Ancestors Policy](https://www.goodancestors.org.au).
+- [Kim Weatherall](https://www.sydney.edu.au/law/about/our-people/academic-staff/kimberlee-weatherall.html), The University of Sydney. 
+- [Geordie Williamson](https://www.maths.usyd.edu.au/u/geordie/), The University of Sydney. 
 
 This event is done in partnership with the Sydney Knowledge Hub. 
 
-<!-- Hello world! 
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-``` -->
