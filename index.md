@@ -48,7 +48,7 @@ This inaugural event is organised by the following committee:
 - [Tiberio Caetano](https://www.gradientinstitute.org/about-us/team/tiberio-caetano/), [Gradient Institute](https://www.gradientinstitute.org). 
 - [Liam Carroll](https://www.gradientinstitute.org/about-us/team/liam-carroll/), [Gradient Institute](https://www.gradientinstitute.org) and [Timaeus](https://timaeus.co). 
 - [Daniel Murfet](http://therisingsea.org/), The University of Melbourne. 
-- Greg Sadler, [The Good Ancestors Policy](https://www.goodancestors.org.au).
+- Greg Sadler, [Good Ancestors Policy](https://www.goodancestors.org.au).
 - [Kim Weatherall](https://www.sydney.edu.au/law/about/our-people/academic-staff/kimberlee-weatherall.html), The University of Sydney. 
 - [Geordie Williamson](https://www.maths.usyd.edu.au/u/geordie/), The University of Sydney. 
 
