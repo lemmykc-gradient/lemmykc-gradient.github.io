@@ -9,7 +9,7 @@ layout: default
 # About the Forum
 The Australian AI Safety Forum is a two-day interdisciplinary event scheduled for November 2024. This forum, the first of its kind in Australia, aims to discuss perspectives on technical AI safety and governance, and explore Australia's unique role in the global AI safety landscape. The event will be anchored around the International Scientific Report on the Safety of Advanced AI, highlighting its key content and examining its implications for Australia.
 
-The forum will encourage conversation and education between technical researchers, policy makers, and industry leaders. It aims to establish an Australian community working on problems of technical AI safety and governance, with the intention of becoming a regular event. By bringing together diverse perspectives, the forum hopes to inspire new collaborations and engage researchers who are interested in AI safety but have been unsure how to contribute.
+The forum will encourage conversation and education between researchers, policy makers, and industry leaders. It aims to establish an Australian community working on problems of technical AI safety and governance, with the intention of becoming a regular event. By bringing together diverse perspectives, the forum hopes to inspire new collaborations and engage researchers who are interested in AI safety but have been unsure how to contribute.
 
 # Key Details
 
