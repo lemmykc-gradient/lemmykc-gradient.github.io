@@ -6,6 +6,12 @@ layout: default
   <img src="/images/ai_header.jpg" alt="AI Header" width="900">
 </p> -->
 
+<p style="text-align: center; font-size: 24px; margin-top: 30px; margin-bottom: 30px;">
+  <a href="https://forms.gle/LJB9wF7fjnvqcZxdA">Applications now open!</a>
+</p>
+
+Acceptance notifications will begin on **October 10th**. 
+
 # About the Forum
 The Australian AI Safety Forum is a two-day interdisciplinary event scheduled for November 2024. This forum, the first of its kind in Australia, aims to discuss perspectives on technical AI safety and governance, and explore Australia's unique role in the global AI safety landscape. The event will be anchored around the International Scientific Report on the Safety of Advanced AI, highlighting its key content and examining its implications for Australia.
 
@@ -13,22 +19,28 @@ The forum will encourage conversation and education between researchers, policy 
 
 # Key Details
 
-**Date:** 7th-8th November 2024
+**Date:** 7th-8th November 2024. 
+
+- **Day 1 (Thursday 7th Nov):** Forum 9am-5pm. Networking drinks reception 5pm to ~7pm (details to be confirmed). 
+- **Day 2 (Friday 8th Nov):** Forum 9am-4pm. 
 
 **Location:** Sydney Knowledge Hub, The University of Sydney
 
-**Format:** Two-day interdisciplinary conference, a mix of talks, panels and workshops (detailed program TBD)
+**Format:** Two-day interdisciplinary conference, a mix of talks, panels and workshops, with a detailed program to be confirmed. 
+
+- **Day 1 (Thursday 7th Nov):** Single-track program introducing AI safety from both technical and governance perspectives. The day will feature keynote speeches interspersed with panel discussions.
+- **Day 2 (Friday 8th Nov):** Mainly parallel workshop sessions where participants will collaborate on addressing key questions in AI safety, with a focus on Australia's potential contributions to the field.
 
 
 # Participants
-The forum will gather professionals from various backgrounds, including:
+Who is this for: This forum is designed for a diverse group of participants, including:
 
-- Mathematics and Computer Science
-- Natural Sciences
-- Law and Public Policy
+- Researchers in mathematics, computer science, natural sciences and the social sciences
 - Policymakers
-- National Security and Cybersecurity
-- Industry (Finance, Telecommunications, etc.)
+- Legal experts and public policy professionals
+- National security and cybersecurity specialists
+- Industry professionals (e.g., finance, telecommunications)
+- Students and early-career professionals interested in AI safety and governance
 
 # Forum Topics
 A non-exhaustive list of topics for discussion includes: 
@@ -52,5 +64,13 @@ This inaugural event is organised by the following committee:
 - [Kim Weatherall](https://www.sydney.edu.au/law/about/our-people/academic-staff/kimberlee-weatherall.html), The University of Sydney. 
 - [Geordie Williamson](https://www.maths.usyd.edu.au/u/geordie/), The University of Sydney. 
 
-This event is done in partnership with the Sydney Knowledge Hub. 
+# Partners
+This event is made possible thanks to the support of the following organisations: 
+- Sydney Knowledge Hub
+- The University of Sydney
+- Gradient Institute
+- Timaeus 
+- Sydney Mathematical Research Institute
 
+# Contact
+If you have any questions, please contact Liam Carroll at liam.carroll@gradientinstitute.org . 
