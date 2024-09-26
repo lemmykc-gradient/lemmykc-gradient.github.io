@@ -28,7 +28,7 @@ The forum will encourage conversation and education between researchers, policy 
 
 **Format:** Two-day interdisciplinary conference, a mix of talks, panels and workshops, with a detailed program to be confirmed. 
 
-- **Day 1 (Thursday 7th Nov):** Single-track program introducing AI safety from both technical and governance perspectives. The day will feature keynote speeches interspersed with panel discussions.
+- **Day 1 (Thursday 7th Nov):** Single-track program introducing AI safety from both technical and governance perspectives. The day will feature keynote speeches from international AI safety experts, interspersed with panel discussions.
 - **Day 2 (Friday 8th Nov):** Mainly parallel workshop sessions where participants will collaborate on addressing key questions in AI safety, with a focus on Australia's potential contributions to the field.
 
 
