@@ -7,13 +7,13 @@ layout: default
 </p> -->
 
 <p style="text-align: center; font-size: 64px; margin-top: 30px; margin-bottom: 30px;">
-  <a href="https://forms.gle/LJB9wF7fjnvqcZxdA">Applications now open!</a>
+  <a href="https://forms.gle/LJB9wF7fjnvqcZxdA">Apply here!</a>
 </p>
 
 Applications open on **September 26th**. Acceptance notifications will begin from **October 10th**. 
 
 # About the Forum
-The Australian AI Safety Forum is a two-day interdisciplinary event scheduled for November 2024. This forum, the first of its kind in Australia, aims to discuss perspectives on technical AI safety and governance, and explore Australia's unique role in the global AI safety landscape. The event will be anchored around the International Scientific Report on the Safety of Advanced AI, highlighting its key content and examining its implications for Australia.
+The Australian AI Safety Forum is a two-day interdisciplinary event scheduled for November 2024. This forum, the first of its kind in Australia, aims to discuss perspectives on technical AI safety and governance, and explore Australia's unique role in the global AI safety landscape. The event will be anchored around the [International Scientific Report on the Safety of Advanced AI](https://assets.publishing.service.gov.uk/media/6655982fdc15efdddf1a842f/international_scientific_report_on_the_safety_of_advanced_ai_interim_report.pdf), highlighting its key content and examining its implications for Australia.
 
 The forum will encourage conversation and education between researchers, policy makers, and industry leaders. It aims to establish an Australian community working on problems of technical AI safety and governance, with the intention of becoming a regular event. By bringing together diverse perspectives, the forum hopes to inspire new collaborations and engage researchers who are interested in AI safety but have been unsure how to contribute.
 
@@ -30,6 +30,8 @@ The forum will encourage conversation and education between researchers, policy 
 
 - **Day 1 (Thursday 7th Nov):** Single-track program introducing AI safety from both technical and governance perspectives. The day will feature keynote speeches from international AI safety experts, interspersed with panel discussions.
 - **Day 2 (Friday 8th Nov):** Mainly parallel workshop sessions where participants will collaborate on addressing key questions in AI safety, with a focus on Australia's potential contributions to the field.
+
+**Cost:** Free 
 
 
 # Participants
