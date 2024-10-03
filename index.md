@@ -68,11 +68,11 @@ This inaugural event is organised by the following committee:
 
 # Partners
 This event is made possible thanks to the support of the following organisations: 
-- Gradient Institute
-- Sydney Knowledge Hub
-- Sydney Mathematical Research Institute
-- Timaeus 
-- The University of Sydney
+- [Digital Sciences Initiative](https://dsi.sydney.edu.au) at the University of Sydney
+- [Gradient Institute](https://www.gradientinstitute.org)
+- [Sydney Knowledge Hub](https://www.sydney.edu.au/engage/industry-business-partnerships/sydney-knowledge-hub.html)
+- [Sydney Mathematical Research Institute](https://mathematical-research-institute.sydney.edu.au)
+- [Timaeus](https://timaeus.co) 
 
 # Contact
 If you have any questions, please contact Liam Carroll at liam.carroll@gradientinstitute.org . 
