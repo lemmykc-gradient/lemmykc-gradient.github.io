@@ -42,7 +42,7 @@ We are delighted to announce the following group of distinguished keynote speake
 - [Atoosa Kasirzadeh](https://kasirzadeh.org), Google
 - Ryan Kidd, ML Alignment & Theory Scholars (MATS)
 - [Seth Lazar](https://sethlazar.org), Australian National University
-- [Nitarshan Rajkumar](https://www.nitarshan.com), UK AI Safety Institute
+- [Nitarshan Rajkumar](https://www.nitarshan.com), University of Cambridge
 
 # Participants
 Who is this for: This forum is designed for a diverse group of participants, including:
