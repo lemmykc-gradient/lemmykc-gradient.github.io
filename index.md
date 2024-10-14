@@ -33,7 +33,9 @@ The forum will encourage conversation and education between researchers, policy 
 
 **Cost:** Free 
 
-**Speakers:** We are delighted to announce the following group of distinguished keynote speakers for the event:
+# Speakers
+
+We are delighted to announce the following group of distinguished keynote speakers for the event:
 
 - [Marcus Hutter](http://www.hutter1.net), Australian National University
 - [Hoda Heidari](https://www.cs.cmu.edu/~hheidari/), Carnegie Mellon University 
