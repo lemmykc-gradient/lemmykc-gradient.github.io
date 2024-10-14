@@ -10,7 +10,7 @@ layout: default
   <a href="https://forms.gle/LJB9wF7fjnvqcZxdA">Apply here!</a>
 </p>
 
-Applications open on **September 26th**. Acceptance notifications will begin from **October 10th**. 
+Applications open on **September 26th** and will remain open until the event commences. Acceptance notifications will begin from **October 10th**. 
 
 # About the Forum
 The Australian AI Safety Forum is a two-day interdisciplinary event scheduled for November 2024. This forum, the first of its kind in Australia, aims to discuss perspectives on technical AI safety and governance, and explore Australia's unique role in the global AI safety landscape. The event will be anchored around the [International Scientific Report on the Safety of Advanced AI](https://assets.publishing.service.gov.uk/media/6655982fdc15efdddf1a842f/international_scientific_report_on_the_safety_of_advanced_ai_interim_report.pdf), highlighting its key content and examining its implications for Australia.
@@ -33,6 +33,14 @@ The forum will encourage conversation and education between researchers, policy 
 
 **Cost:** Free 
 
+**Speakers:** We are delighted to announce the following group of distinguished keynote speakers for the event:
+
+- [Marcus Hutter](http://www.hutter1.net), Australian National University
+- [Hoda Heidari](https://www.cs.cmu.edu/~hheidari/), Carnegie Mellon University 
+- [Atoosa Kasirzadeh](https://kasirzadeh.org), Google
+- Ryan Kidd, ML Alignment & Theory Scholars (MATS)
+- [Seth Lazar](https://sethlazar.org), Australian National University
+- [Nitarshan Rajkumar](https://www.nitarshan.com), UK AI Safety Institute
 
 # Participants
 Who is this for: This forum is designed for a diverse group of participants, including:
@@ -68,9 +76,11 @@ This inaugural event is organised by the following committee:
 
 # Partners
 This event is made possible thanks to the support of the following organisations: 
-- [Digital Sciences Initiative](https://dsi.sydney.edu.au) at the University of Sydney
-- [Gradient Institute](https://www.gradientinstitute.org)
 - [Sydney Knowledge Hub](https://www.sydney.edu.au/engage/industry-business-partnerships/sydney-knowledge-hub.html)
+- [Digital Sciences Initiative](https://dsi.sydney.edu.au) at the University of Sydney
+- [Faculty of Arts & Social Sciences (FASS)](https://www.sydney.edu.au/arts/) at the University of Sydney
+- [Open Philanthropy](https://www.openphilanthropy.org)
+- [Gradient Institute](https://www.gradientinstitute.org)
 - [Sydney Mathematical Research Institute](https://mathematical-research-institute.sydney.edu.au)
 - [Timaeus](https://timaeus.co) 
 
