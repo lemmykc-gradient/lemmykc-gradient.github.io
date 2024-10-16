@@ -11,7 +11,7 @@ layout: default
   Applications now closed.
 </p>
 
-Due to overwhelming demand, applications are now closed. Acceptance notifications commenced from **October 10th**. 
+Due to overwhelming demand, applications are now closed. Thank you to all who applied to participate - we will be in touch soon.
 
 # About the Forum
 The Australian AI Safety Forum is a two-day interdisciplinary event scheduled for November 2024. This forum, the first of its kind in Australia, aims to discuss perspectives on technical AI safety and governance, and explore Australia's unique role in the global AI safety landscape. The event will be anchored around the [International Scientific Report on the Safety of Advanced AI](https://assets.publishing.service.gov.uk/media/6655982fdc15efdddf1a842f/international_scientific_report_on_the_safety_of_advanced_ai_interim_report.pdf), highlighting its key content and examining its implications for Australia.
