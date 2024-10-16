@@ -7,10 +7,11 @@ layout: default
 </p> -->
 
 <p style="text-align: center; font-size: 64px; margin-top: 30px; margin-bottom: 30px;">
-  <a href="https://forms.gle/LJB9wF7fjnvqcZxdA">Apply here!</a>
+  <!-- <a href="https://forms.gle/LJB9wF7fjnvqcZxdA">Apply here!</a> -->
+  Applications now closed.
 </p>
 
-Applications open on **September 26th** and will remain open until the event commences. Acceptance notifications will begin from **October 10th**. 
+Due to overwhelming demand, applications are now closed. Acceptance notifications commenced from **October 10th**. 
 
 # About the Forum
 The Australian AI Safety Forum is a two-day interdisciplinary event scheduled for November 2024. This forum, the first of its kind in Australia, aims to discuss perspectives on technical AI safety and governance, and explore Australia's unique role in the global AI safety landscape. The event will be anchored around the [International Scientific Report on the Safety of Advanced AI](https://assets.publishing.service.gov.uk/media/6655982fdc15efdddf1a842f/international_scientific_report_on_the_safety_of_advanced_ai_interim_report.pdf), highlighting its key content and examining its implications for Australia.
