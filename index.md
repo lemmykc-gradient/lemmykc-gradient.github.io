@@ -82,6 +82,7 @@ This event is made possible thanks to the support of the following organisations
 - [Sydney Knowledge Hub](https://www.sydney.edu.au/engage/industry-business-partnerships/sydney-knowledge-hub.html)
 - [Digital Sciences Initiative](https://dsi.sydney.edu.au) at the University of Sydney
 - [Faculty of Arts & Social Sciences (FASS)](https://www.sydney.edu.au/arts/) at the University of Sydney
+- [Faculty of Engineering](https://www.sydney.edu.au/engineering/) at the University of Sydney 
 - [Open Philanthropy](https://www.openphilanthropy.org)
 - [Gradient Institute](https://www.gradientinstitute.org)
 - [Sydney Mathematical Research Institute](https://mathematical-research-institute.sydney.edu.au)
