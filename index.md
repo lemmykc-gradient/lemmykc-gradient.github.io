@@ -40,7 +40,7 @@ We are delighted to announce the following group of distinguished keynote speake
 
 - [Marcus Hutter](http://www.hutter1.net), Australian National University
 - [Hoda Heidari](https://www.cs.cmu.edu/~hheidari/), Carnegie Mellon University 
-- [Atoosa Kasirzadeh](https://kasirzadeh.org), Google
+- [Atoosa Kasirzadeh](https://kasirzadeh.org), Carnegie Mellon University
 - Ryan Kidd, ML Alignment & Theory Scholars (MATS)
 - [Seth Lazar](https://sethlazar.org), Australian National University
 - [Nitarshan Rajkumar](https://www.nitarshan.com), University of Cambridge
