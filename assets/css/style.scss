@@ -4,3 +4,50 @@
 // @import 'jekyll-theme-cayman';
 
 @import "{{ site.theme }}";
+
+
+/* Increase the max-width of the main content container */
+.main-content {
+    max-width: 80rem;  /* Default is 64rem, we're making it wider */
+    padding: 2rem 4rem;
+}
+
+/* Table specific styles */
+.main-content table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+}
+
+/* Set minimum widths for columns */
+.main-content table th:nth-child(1), 
+.main-content table td:nth-child(1) {  /* Time */
+    min-width: 80px;
+}
+
+.main-content table th:nth-child(2), 
+.main-content table td:nth-child(2) {  /* Room */
+    min-width: 80px;
+}
+
+.main-content table th:nth-child(3), 
+.main-content table td:nth-child(3) {  /* Session */
+    min-width: 250px;
+}
+
+.main-content table th:nth-child(4), 
+.main-content table td:nth-child(4) {  /* Speakers */
+    min-width: 300px;
+}
+
+@media screen and (max-width: 64em) {
+    .main-content {
+        padding: 2rem;
+    }
+}
+
+@media screen and (max-width: 42em) {
+    .main-content {
+        padding: 1rem;
+    }
+}
