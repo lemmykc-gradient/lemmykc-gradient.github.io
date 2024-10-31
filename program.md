@@ -10,15 +10,16 @@ title: Australian AI Safety Forum
 | Time | Room | Session | Speakers |
 |------|------|---------|-----------|
 | 08:00 | | Registration and free barista coffee cart | |
-| 09:00 | 277 | **Opening of the inaugural Australian AI Safety Forum** | **Helen Wilson**, Deputy Secretary, Science and Technology, Commonwealth Department of Industry, Science, and Resources |
-| 09:05 | 277 | **Welcome to Sydney Knowledge Hub** | **Karla Perez Romero**, Sydney Knowledge Hub |
-| 09:10 | 277 | **Welcome to AI Safety Forum** | **Liam Carroll**, Gradient Institute / Timaeus |
-| 09:30 | 277 | **State of AI** | **Tiberio Caetano**, Gradient Institute |
-| 10:00 | 277 | **State of Technical AI safety** | **Daniel Murfet**, University of Melbourne |
-| 10:30 | 277 | **State of AI Governance** | **Kimberlee Weatherall**, University of Sydney |
+| 09:00 | 277 | **<span style="color: green">WELCOME:</span> Opening of the inaugural Australian AI Safety Forum** | **Helen Wilson**, Deputy Secretary, Science and Technology, Commonwealth Department of Industry, Science, and Resources |
+| 09:05 | 277 | **<span style="color: green">WELCOME:</span> Welcome to Sydney Knowledge Hub** | **Karla Perez Romero**, Sydney Knowledge Hub |
+| 09:10 | 277 | **<span style="color: green">WELCOME:</span> Welcome to AI Safety Forum** | **Liam Carroll**, Gradient Institute / Timaeus |
+| 09:30 | 277 | **<span style="color: blue">INTRODUCTION:</span> State of AI** | **Tiberio Caetano**, Gradient Institute |
+| 10:00 | 277 | **<span style="color: blue">INTRODUCTION:</span> State of Technical AI safety** | **Daniel Murfet**, University of Melbourne |
+| 10:30 | 277 | **<span style="color: blue">INTRODUCTION:</span> State of AI Governance** | **Kimberlee Weatherall**, University of Sydney |
 | 11:00 | | Morning tea | |
 | 11:30 | 277 | **<span style="color: red">KEYNOTE:</span> Red-Teaming for Generative AI - Silver Bullet or Security Theater** | **Hoda Heidari**, Carnegie Mellon University |
 | 12:15 | 277 | **<span style="color: red">KEYNOTE:</span> Accelerating AI Safety Talent** | **Ryan Kidd**, MATS Research |
+| 13:00 | | Lunch | |
 | 14:00 | 277 | **<span style="color: red">KEYNOTE:</span> Frontier AI Safety Governance: Open Questions** | **Seth Lazar**, Australian National University |
 | 14:45 | 277 | **<span style="color: red">KEYNOTE:</span> AGI Safety via AIXI** | **Marcus Hutter**, Australian National University |
 | 15:30 | | Afternoon tea | |
@@ -32,7 +33,7 @@ title: Australian AI Safety Forum
 |------|------|---------|-----------|-------------|
 | 08:30 | | Doors open | | |
 | 09:00 | 277 | **Introduction to Day 2** | **Liam Carroll**, Gradient Institute / Timaeus |  |
-| 09:05 | 277 | **State of the science: The International Scientific Report on the Safety of Advanced AI** | **Daniel Murfet**, University of Melbourne<br>**Tiberio Caetano**, Gradient Institute | The International Scientific Report on the Safety of Advanced AI describes the capabilities, risks, and technical approaches to address risks of increasingly capable general-purpose AI systems. In this session we will explore the best current scientific understanding of AI safety including critical challenges and emerging approaches for making progress. |
+| 09:05 | 277 | **State of the science: The International Scientific Report on the Safety of Advanced AI** | **Daniel Murfet**, University of Melbourne<br>**Tiberio Caetano**, Gradient Institute | The [International Scientific Report on the Safety of Advanced AI](https://assets.publishing.service.gov.uk/media/6655982fdc15efdddf1a842f/international_scientific_report_on_the_safety_of_advanced_ai_interim_report.pdf) describes the capabilities, risks, and technical approaches to address risks of increasingly capable general-purpose AI systems. In this session we will explore the best current scientific understanding of AI safety including critical challenges and emerging approaches for making progress. |
 | 10:30 | | Morning tea | | |
 | 11:00 | 277 | **International governance of AI safety: a role for Australia?** | **Johanna Weaver**, Tech Policy Design Centre<br>**Kimberlee Weatherall**, University of Sydney | Many countries and institutions are enacting laws or multilateral agreements about how to develop and use AI. In this session, learn about the latest international processes, laws and proposals, explore their relevance to the Australian context, and discuss how Australia might participate in international governance for AI safety. |
 | 11:00 | 275 | **Unpacking "Safe" and "Responsible" AI** | **Qinghua Lu**, CSIRO<br>**Alexander Saeri**, MIT FutureTech | Responsible AI and AI Safety are often discussed together, but what is the relationship between these concepts and communities? In this session, we will provide an overview of recent progress in the science of Responsible AI, and provide space to discuss cross-pollination between Responsible AI and AI Safety research & practice communities. |
