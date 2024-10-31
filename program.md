@@ -23,7 +23,6 @@ title: Australian AI Safety Forum
 | 14:00 | 277 | **<span style="color: red">KEYNOTE:</span> Frontier AI Safety Governance: Open Questions** | **Seth Lazar**, Australian National University |
 | 14:45 | 277 | **<span style="color: red">KEYNOTE:</span> AGI Safety via AIXI** | **Marcus Hutter**, Australian National University |
 | 15:30 | | Afternoon tea | |
-<!-- | 16:00 | 277 | **Panel discussion** | **Tiberio Caetano**, Gradient Institute<br>**Marcus Hutter**, Australian National University<br>**Ryan Kidd**, MATS Research<br>**Seth Lazar**, Australian National University<br>**Kimberlee Weatherall**, University of Sydney | -->
 | 16:00 | 277 | **Panel discussion** | TBC |
 | 17:00 | | Networking and drinks | |
 | 18:30 | | _END Day 1_ | |
