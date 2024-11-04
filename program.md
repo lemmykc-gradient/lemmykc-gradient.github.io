@@ -11,7 +11,7 @@ title: Australian AI Safety Forum
 |------|------|---------|-----------|
 | 08:00 | | Registration and free barista coffee cart | |
 | 09:00 | 277 | **<span style="color: green">WELCOME:</span> Opening of the inaugural Australian AI Safety Forum** | **Helen Wilson**, Deputy Secretary, Science and Technology, Commonwealth Department of Industry, Science, and Resources |
-| 09:05 | 277 | **<span style="color: green">WELCOME:</span> Welcome to the venue, Sydney Knowledge Hub** | **Karla Perez Romero**, Sydney Knowledge Hub |
+| 09:05 | 277 | **<span style="color: green">WELCOME:</span> Welcome to the venue, Sydney Knowledge Hub** | **Rupal Ismin**, Sydney Knowledge Hub |
 | 09:10 | 277 | **<span style="color: green">WELCOME:</span> Welcome to AI Safety Forum** | **Liam Carroll**, Gradient Institute / Timaeus |
 | 09:30 | 277 | **<span style="color: blue">INTRODUCTION:</span> State of AI** | **Tiberio Caetano**, Gradient Institute |
 | 10:00 | 277 | **<span style="color: blue">INTRODUCTION:</span> State of Technical AI safety** | **Daniel Murfet**, University of Melbourne |
