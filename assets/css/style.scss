@@ -53,6 +53,39 @@
     }
 }
 
+/* Mobile adjustments */
+@media screen and (max-width: 64em) {
+    .main-content {
+        padding: 2rem 1rem;
+    }
+
+    .main-content table {
+        display: block;  /* Switch to block for mobile scrolling */
+        overflow-x: auto;
+    }
+
+    /* Mobile minimum widths */
+    .main-content table th:nth-child(1), 
+    .main-content table td:nth-child(1) {
+        min-width: 120px;
+    }
+
+    .main-content table th:nth-child(2), 
+    .main-content table td:nth-child(2) {
+        min-width: 120px;
+    }
+
+    .main-content table th:nth-child(3), 
+    .main-content table td:nth-child(3) {
+        min-width: 300px;
+    }
+
+    .main-content table th:nth-child(4), 
+    .main-content table td:nth-child(4) {
+        min-width: 450px;
+    }
+}
+
 
 // @import "{{ site.theme }}";
 
