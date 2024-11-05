@@ -70,19 +70,20 @@
   font-family: 'Oswald', sans-serif;
 }
 
-.project-name-link {
-    text-decoration: none;
-    color: inherit;  /* This makes it keep the original text color */
-}
+// .project-name-link {
+//     text-decoration: none;
+//     color: inherit;  /* This makes it keep the original text color */
+// }
 
-.project-name-link:hover {
-    text-decoration: none;
-    color: inherit !important;  /* Ensures the color doesn't change on hover */
-}
+// .project-name-link:hover {
+//     text-decoration: none;
+//     color: inherit !important;  /* Ensures the color doesn't change on hover */
+// }
 
 .project-name-link, 
 .project-name-link h1,
 .project-name-link:hover {
+    text-decoration: none;
     color: white !important;
 }
 
