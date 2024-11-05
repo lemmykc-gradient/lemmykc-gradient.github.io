@@ -6,6 +6,10 @@ layout: default
   <img src="/images/ai_header.jpg" alt="AI Header" width="900">
 </p> -->
 
+<p style="text-align: center;">
+  <img src="images/icon.png" alt="AI Safety Forum Logo" style="width: 500px; margin: 30px 0;">
+</p>
+
 <p style="text-align: center; font-size: 64px; margin-top: 30px; margin-bottom: 30px;">
   <a href="https://aisafetyforum.au/program">Click for Forum Program</a>
 </p>
