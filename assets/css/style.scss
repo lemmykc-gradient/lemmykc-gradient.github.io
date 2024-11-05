@@ -70,6 +70,16 @@
   font-family: 'Oswald', sans-serif;
 }
 
+.project-name-link {
+    text-decoration: none;
+    color: inherit;  /* This makes it keep the original text color */
+}
+
+.project-name-link:hover {
+    text-decoration: none;
+    color: inherit;  /* Ensures the color doesn't change on hover */
+}
+
 .page-header::before {
   content: '';
   display: block;
@@ -89,31 +99,30 @@
 
 /* Enhanced table styles */
 .main-content table {
-    display: table;  /* Changed from block to table */
+    display: block;
     width: 100%;
     overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
 }
 
 /* Base column widths - desktop */
 .main-content table th:nth-child(1), 
 .main-content table td:nth-child(1) {  /* Time */
-    width: 10%;
+    min-width: 80px;
 }
 
 .main-content table th:nth-child(2), 
 .main-content table td:nth-child(2) {  /* Room */
-    width: 10%;
+    min-width: 80px;
 }
 
 .main-content table th:nth-child(3), 
 .main-content table td:nth-child(3) {  /* Session */
-    width: 40%;
+    min-width: 250px;
 }
 
 .main-content table th:nth-child(4), 
 .main-content table td:nth-child(4) {  /* Speakers */
-    width: 40%;
+    min-width: 300px;
 }
 
 /* Table styling */

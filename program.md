@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Australian AI Safety Forum
+title: Australian AI Safety Forum 2024
 ---
 
 <p style="text-align: center; font-size: 48px; margin-top: 30px; margin-bottom: 30px;">
