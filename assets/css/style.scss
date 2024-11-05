@@ -1,117 +1,26 @@
-// ---
-// ---
-
-// // @import 'jekyll-theme-cayman';
-
-// @import "{{ site.theme }}";
-
-
-// /* Increase the max-width of the main content container */
-// .main-content {
-//     max-width: 90rem;  /* Increased from 80rem to 90rem */
-//     padding: 2rem 4rem;
-// }
-
-// /* Table specific styles */
-// .main-content table {
-//     display: block;
-//     width: 100%;
-//     overflow-x: auto;
-// }
-
-// /* Set minimum widths for columns */
-// .main-content table th:nth-child(1), 
-// .main-content table td:nth-child(1) {  /* Time */
-//     min-width: 80px;
-// }
-
-// .main-content table th:nth-child(2), 
-// .main-content table td:nth-child(2) {  /* Room */
-//     min-width: 80px;
-// }
-
-// .main-content table th:nth-child(3), 
-// .main-content table td:nth-child(3) {  /* Session */
-//     min-width: 250px;
-// }
-
-// .main-content table th:nth-child(4), 
-// .main-content table td:nth-child(4) {  /* Speakers */
-//     min-width: 300px;
-// }
-
-// @media screen and (max-width: 64em) {
-//     .main-content {
-//         padding: 2rem;
-//     }
-// }
-
-// @media screen and (max-width: 42em) {
-//     .main-content {
-//         padding: 1rem;
-//     }
-// }
-
 ---
 ---
+
+
+// @import 'jekyll-theme-cayman';
 
 @import "{{ site.theme }}";
 
-/* Font import */
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
 
-/* AI Safety Forum Branding */
-.page-header {
-  font-family: 'Oswald', sans-serif;
-  background: linear-gradient(120deg, #001e69, #0044c6);
-}
-
-.project-name {
-  font-family: 'Oswald', sans-serif;
-}
-
-// .project-name-link {
-//     text-decoration: none;
-//     color: inherit;  /* This makes it keep the original text color */
-// }
-
-// .project-name-link:hover {
-//     text-decoration: none;
-//     color: inherit !important;  /* Ensures the color doesn't change on hover */
-// }
-
-.project-name-link, 
-.project-name-link h1,
-.project-name-link:hover {
-    text-decoration: none;
-    color: white !important;
-}
-
-.page-header::before {
-  content: '';
-  display: block;
-  width: 100px;
-  height: 100px;
-  margin: 0 auto 20px;
-  background-image: url('../images/icon.png');
-  background-size: contain;
-  background-repeat: no-repeat;
-}
-
-/* Main content container */
+/* Increase the max-width of the main content container */
 .main-content {
-    max-width: 90rem;
+    max-width: 90rem;  /* Increased from 80rem to 90rem */
     padding: 2rem 4rem;
 }
 
-/* Enhanced table styles */
+/* Table specific styles */
 .main-content table {
     display: block;
     width: 100%;
     overflow-x: auto;
 }
 
-/* Base column widths - desktop */
+/* Set minimum widths for columns */
 .main-content table th:nth-child(1), 
 .main-content table td:nth-child(1) {  /* Time */
     min-width: 80px;
@@ -132,56 +41,148 @@
     min-width: 300px;
 }
 
-/* Table styling */
-.main-content table th {
-    background-color: #001e69;
-    color: white;
-    padding: 12px 16px;
-}
-
-.main-content table td {
-    padding: 12px 16px;
-}
-
-.main-content table tr:nth-child(even) {
-    background-color: #f5f8ff;
-}
-
-/* Mobile adjustments */
 @media screen and (max-width: 64em) {
     .main-content {
-        padding: 2rem 1rem;
-    }
-
-    .main-content table {
-        display: block;  /* Switch to block for mobile scrolling */
-        overflow-x: auto;
-    }
-
-    /* Mobile minimum widths */
-    .main-content table th:nth-child(1), 
-    .main-content table td:nth-child(1) {
-        min-width: 120px;
-    }
-
-    .main-content table th:nth-child(2), 
-    .main-content table td:nth-child(2) {
-        min-width: 120px;
-    }
-
-    .main-content table th:nth-child(3), 
-    .main-content table td:nth-child(3) {
-        min-width: 300px;
-    }
-
-    .main-content table th:nth-child(4), 
-    .main-content table td:nth-child(4) {
-        min-width: 300px;
+        padding: 2rem;
     }
 }
 
 @media screen and (max-width: 42em) {
     .main-content {
-        padding: 1rem 0.5rem;
+        padding: 1rem;
     }
 }
+
+
+// @import "{{ site.theme }}";
+
+// /* Font import */
+// // @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+// /* AI Safety Forum Branding */
+// .page-header {
+//   font-family: 'Oswald', sans-serif;
+//   background: linear-gradient(120deg, #001e69, #0044c6);
+// }
+
+// .project-name {
+//   font-family: 'Oswald', sans-serif;
+// }
+
+// // .project-name-link {
+// //     text-decoration: none;
+// //     color: inherit;  /* This makes it keep the original text color */
+// // }
+
+// // .project-name-link:hover {
+// //     text-decoration: none;
+// //     color: inherit !important;  /* Ensures the color doesn't change on hover */
+// // }
+
+// .project-name-link, 
+// .project-name-link h1,
+// .project-name-link:hover {
+//     text-decoration: none;
+//     color: white !important;
+// }
+
+// .page-header::before {
+//   content: '';
+//   display: block;
+//   width: 100px;
+//   height: 100px;
+//   margin: 0 auto 20px;
+//   background-image: url('../images/icon.png');
+//   background-size: contain;
+//   background-repeat: no-repeat;
+// }
+
+// /* Main content container */
+// .main-content {
+//     max-width: 90rem;
+//     padding: 2rem 4rem;
+// }
+
+// /* Enhanced table styles */
+// .main-content table {
+//     display: block;
+//     width: 100%;
+//     overflow-x: auto;
+// }
+
+// /* Base column widths - desktop */
+// .main-content table th:nth-child(1), 
+// .main-content table td:nth-child(1) {  /* Time */
+//     min-width: 80px;
+// }
+
+// .main-content table th:nth-child(2), 
+// .main-content table td:nth-child(2) {  /* Room */
+//     min-width: 80px;
+// }
+
+// .main-content table th:nth-child(3), 
+// .main-content table td:nth-child(3) {  /* Session */
+//     min-width: 250px;
+// }
+
+// .main-content table th:nth-child(4), 
+// .main-content table td:nth-child(4) {  /* Speakers */
+//     min-width: 300px;
+// }
+
+// /* Table styling */
+// .main-content table th {
+//     background-color: #001e69;
+//     color: white;
+//     padding: 12px 16px;
+// }
+
+// .main-content table td {
+//     padding: 12px 16px;
+// }
+
+// .main-content table tr:nth-child(even) {
+//     background-color: #f5f8ff;
+// }
+
+// /* Mobile adjustments */
+// @media screen and (max-width: 64em) {
+//     .main-content {
+//         padding: 2rem 1rem;
+//     }
+
+//     .main-content table {
+//         display: block;  /* Switch to block for mobile scrolling */
+//         overflow-x: auto;
+//     }
+
+//     /* Mobile minimum widths */
+//     .main-content table th:nth-child(1), 
+//     .main-content table td:nth-child(1) {
+//         min-width: 120px;
+//     }
+
+//     .main-content table th:nth-child(2), 
+//     .main-content table td:nth-child(2) {
+//         min-width: 120px;
+//     }
+
+//     .main-content table th:nth-child(3), 
+//     .main-content table td:nth-child(3) {
+//         min-width: 300px;
+//     }
+
+//     .main-content table th:nth-child(4), 
+//     .main-content table td:nth-child(4) {
+//         min-width: 300px;
+//     }
+// }
+
+// @media screen and (max-width: 42em) {
+//     .main-content {
+//         padding: 1rem 0.5rem;
+//     }
+// }
+
+
