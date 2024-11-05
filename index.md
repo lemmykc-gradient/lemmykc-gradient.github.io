@@ -7,7 +7,9 @@ layout: default
 </p> -->
 
 <p style="text-align: center;">
-  <img src="images/icon.png" alt="AI Safety Forum Logo" style="width: 500px; margin: 30px 0;">
+  <a href="{{ site.baseurl }}/">
+    <img src="images/icon.png" alt="AI Safety Forum Logo" style="width: 500px; margin: 30px 0;">
+  </a>
 </p>
 
 <p style="text-align: center; font-size: 64px; margin-top: 30px; margin-bottom: 30px;">

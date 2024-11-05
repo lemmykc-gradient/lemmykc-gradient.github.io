@@ -3,6 +3,12 @@ layout: default
 title: Australian AI Safety Forum 2024
 ---
 
+<p style="text-align: center;">
+  <a href="{{ site.baseurl }}/">
+    <img src="images/icon.png" alt="AI Safety Forum Logo" style="width: 500px; margin: 30px 0;">
+  </a>
+</p>
+
 <p style="text-align: center; font-size: 48px; margin-top: 30px; margin-bottom: 30px;">
   <a href="https://flux.qa/GDW4LQ">Click here for Q+A on FLUX</a>
 </p>
