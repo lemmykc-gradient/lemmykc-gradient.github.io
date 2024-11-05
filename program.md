@@ -4,7 +4,7 @@ title: Australian AI Safety Forum
 ---
 
 <p style="text-align: center; font-size: 48px; margin-top: 30px; margin-bottom: 30px;">
-  <a href="flux.qa/GDW4LQ">Q+A on FLUX</a>
+  <a href="https://flux.qa/GDW4LQ">Click here for Q+A on FLUX</a>
 </p>
 
 ## Day 1: Keynote Day - Thursday 7th November

@@ -7,7 +7,7 @@ layout: default
 </p> -->
 
 <p style="text-align: center; font-size: 64px; margin-top: 30px; margin-bottom: 30px;">
-  <a href="https://aisafetyforum.au/program">Program for Forum</a>
+  <a href="https://aisafetyforum.au/program">Click for Forum Program</a>
 </p>
 
 # About the Forum
