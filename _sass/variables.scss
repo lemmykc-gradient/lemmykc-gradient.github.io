@@ -2,18 +2,29 @@
 $large-breakpoint: 64em !default;
 $medium-breakpoint: 42em !default;
 
+// OLD PRE-BRANDING
+// // Headers
+// $header-heading-color: #fff !default;
+// // $header-bg-color: #159957 !default;
+// // $header-bg-color-secondary: #155799 !default;
+// $header-bg-color: #F89078 !default;
+// $header-bg-color-secondary: #A3319F !default;
+
+// // Text
+// $section-headings-color: #F89078 !default;
+// $body-text-color: #606c71 !default;
+// $body-link-color: #1e6bb8 !default;
+// $blockquote-text-color: #819198 !default;
+
 // Headers
 $header-heading-color: #fff !default;
-// $header-bg-color: #159957 !default;
-// $header-bg-color-secondary: #155799 !default;
-$header-bg-color: #F89078 !default;
-$header-bg-color-secondary: #A3319F !default;
+$header-bg-color: #001e69 !default;  // AISF Dark Blue
+$header-bg-color-secondary: #0044c6 !default; // AISF Bright Blue
 
 // Text
-$section-headings-color: #F89078 !default;
-$body-text-color: #606c71 !default;
-$body-link-color: #1e6bb8 !default;
-$blockquote-text-color: #819198 !default;
+$section-headings-color: #001e69 !default; // AISF Dark Blue
+$body-text-color: #606c71 !default; // Keep original for readability
+$body-link-color: #0044c6 !default; // AISF Bright Blue
 
 // Code
 $code-bg-color: #f3f6fa !default;

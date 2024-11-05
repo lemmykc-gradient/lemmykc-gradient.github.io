@@ -1,53 +1,176 @@
----
----
+// ---
+// ---
 
-// @import 'jekyll-theme-cayman';
+// // @import 'jekyll-theme-cayman';
+
+// @import "{{ site.theme }}";
+
+
+// /* Increase the max-width of the main content container */
+// .main-content {
+//     max-width: 90rem;  /* Increased from 80rem to 90rem */
+//     padding: 2rem 4rem;
+// }
+
+// /* Table specific styles */
+// .main-content table {
+//     display: block;
+//     width: 100%;
+//     overflow-x: auto;
+// }
+
+// /* Set minimum widths for columns */
+// .main-content table th:nth-child(1), 
+// .main-content table td:nth-child(1) {  /* Time */
+//     min-width: 80px;
+// }
+
+// .main-content table th:nth-child(2), 
+// .main-content table td:nth-child(2) {  /* Room */
+//     min-width: 80px;
+// }
+
+// .main-content table th:nth-child(3), 
+// .main-content table td:nth-child(3) {  /* Session */
+//     min-width: 250px;
+// }
+
+// .main-content table th:nth-child(4), 
+// .main-content table td:nth-child(4) {  /* Speakers */
+//     min-width: 300px;
+// }
+
+// @media screen and (max-width: 64em) {
+//     .main-content {
+//         padding: 2rem;
+//     }
+// }
+
+// @media screen and (max-width: 42em) {
+//     .main-content {
+//         padding: 1rem;
+//     }
+// }
+
+---
+---
 
 @import "{{ site.theme }}";
 
+/* Font import */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
 
-/* Increase the max-width of the main content container */
+/* AI Safety Forum Branding */
+.page-header {
+  font-family: 'Oswald', sans-serif;
+  background: linear-gradient(120deg, #001e69, #0044c6);
+}
+
+.project-name {
+  font-family: 'Oswald', sans-serif;
+}
+
+.page-header::before {
+  content: '';
+  display: block;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto 20px;
+  background-image: url('../images/icon.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+/* Main content container */
 .main-content {
-    max-width: 90rem;  /* Increased from 80rem to 90rem */
+    max-width: 90rem;
     padding: 2rem 4rem;
 }
 
-/* Table specific styles */
+/* Enhanced table styles */
 .main-content table {
     display: block;
     width: 100%;
     overflow-x: auto;
+    -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+    white-space: nowrap; /* Prevent text wrapping */
 }
 
-/* Set minimum widths for columns */
+/* Base column widths */
 .main-content table th:nth-child(1), 
 .main-content table td:nth-child(1) {  /* Time */
-    min-width: 80px;
+    min-width: 100px; /* Increased from 80px */
+    max-width: 120px;
 }
 
 .main-content table th:nth-child(2), 
 .main-content table td:nth-child(2) {  /* Room */
-    min-width: 80px;
+    min-width: 100px; /* Increased from 80px */
+    max-width: 120px;
 }
 
 .main-content table th:nth-child(3), 
 .main-content table td:nth-child(3) {  /* Session */
-    min-width: 250px;
+    min-width: 300px; /* Increased from 250px */
 }
 
 .main-content table th:nth-child(4), 
 .main-content table td:nth-child(4) {  /* Speakers */
-    min-width: 300px;
+    min-width: 350px; /* Increased from 300px */
 }
 
+/* Table styling */
+.main-content table th {
+    background-color: #001e69;
+    color: white;
+    padding: 12px 16px; /* Increased padding */
+}
+
+.main-content table td {
+    padding: 12px 16px; /* Increased padding */
+}
+
+.main-content table tr:nth-child(even) {
+    background-color: #f5f8ff;
+}
+
+/* Mobile adjustments */
 @media screen and (max-width: 64em) {
     .main-content {
-        padding: 2rem;
+        padding: 2rem 1rem; /* Reduced horizontal padding */
+    }
+
+    /* Ensure table container fills available width */
+    .main-content table {
+        margin-left: -1rem;
+        margin-right: -1rem;
+        width: calc(100% + 2rem);
     }
 }
 
 @media screen and (max-width: 42em) {
     .main-content {
-        padding: 1rem;
+        padding: 1rem 0.5rem; /* Further reduced padding */
+    }
+
+    /* Maintain minimum column widths on mobile */
+    .main-content table th:nth-child(1), 
+    .main-content table td:nth-child(1) {
+        min-width: 90px;
+    }
+
+    .main-content table th:nth-child(2), 
+    .main-content table td:nth-child(2) {
+        min-width: 90px;
+    }
+
+    .main-content table th:nth-child(3), 
+    .main-content table td:nth-child(3) {
+        min-width: 250px;
+    }
+
+    .main-content table th:nth-child(4), 
+    .main-content table td:nth-child(4) {
+        min-width: 300px;
     }
 }

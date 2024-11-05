@@ -7,16 +7,19 @@ layout: default
 </p> -->
 
 <p style="text-align: center; font-size: 64px; margin-top: 30px; margin-bottom: 30px;">
-  <!-- <a href="https://forms.gle/LJB9wF7fjnvqcZxdA">Apply here!</a> -->
-  Applications now closed.
+  <a href="https://aisafetyforum.au/program">Program for Forum</a>
 </p>
 
-Due to overwhelming demand, applications are now closed. Thank you to all who applied to participate - we will be in touch soon.
-
 # About the Forum
-The Australian AI Safety Forum is a two-day interdisciplinary event scheduled for November 2024. This forum, the first of its kind in Australia, aims to discuss perspectives on technical AI safety and governance, and explore Australia's unique role in the global AI safety landscape. The event will be anchored around the [International Scientific Report on the Safety of Advanced AI](https://assets.publishing.service.gov.uk/media/6655982fdc15efdddf1a842f/international_scientific_report_on_the_safety_of_advanced_ai_interim_report.pdf), highlighting its key content and examining its implications for Australia.
+With the establishment of state-backed AI Safety Institutes in the [UK](https://url.au.m.mimecastprotect.com/s/7N6DCwV1vMfRRM0v0c9izHJzR60?domain=aisi.gov.uk/), [US](https://url.au.m.mimecastprotect.com/s/q1g9CxngwOfQQ6mLmhwsoHyBMej?domain=nist.gov), and other countries, and the release of the [Interim International Scientific Report on the Safety of Advanced AI](https://url.au.m.mimecastprotect.com/s/gMdjCyojxQTyyv676TNtgHx0dWt?domain=assets.publishing.service.gov.uk), the global focus on AI safety has recently intensified. 
 
-The forum will encourage conversation and education between researchers, policy makers, and industry leaders. It aims to establish an Australian community working on problems of technical AI safety and governance, with the intention of becoming a regular event. By bringing together diverse perspectives, the forum hopes to inspire new collaborations and engage researchers who are interested in AI safety but have been unsure how to contribute.
+The Australian AI Safety Forum is a two-day interdisciplinary event in Sydney on 7-8 November 2024 that builds on this momentum and focuses on the subset of AI developments and AI policy that are addressed by the AI Safety Institutes and Report. This forum, the first of its kind in Australia, aims to catalyse conversations on technical AI safety and governance while exploring Australia's unique role in the global AI safety landscape.
+
+The forum takes the [Interim International Scientific Report on the Safety of Advanced AI](https://url.au.m.mimecastprotect.com/s/gMdjCyojxQTyyv676TNtgHx0dWt?domain=assets.publishing.service.gov.uk) as its scientific foundation, using its technical findings to frame and advance discussions on policy and governance within the Australian context. 
+
+By grounding discussions in facts and stimulating dialogue among researchers, policymakers, and industry leaders, the forum seeks to establish an Australian community working on the challenges of technical AI safety and governance, with the intention of becoming a regular event. 
+By bringing together diverse perspectives, the forum aims to inspire new collaborations and serve as a starting point for those in Australia interested in contributing to AI safety.
+
 
 # Key Details
 
@@ -46,7 +49,7 @@ We are delighted to announce the following group of distinguished keynote speake
 - [Nitarshan Rajkumar](https://www.nitarshan.com), University of Cambridge
 
 # Participants
-Who is this for: This forum is designed for a diverse group of participants, including:
+This forum is designed for a diverse group of participants, including:
 
 - Researchers in mathematics, computer science, natural sciences and the social sciences
 - Policymakers
