@@ -77,7 +77,7 @@
 
 .project-name-link:hover {
     text-decoration: none;
-    color: inherit;  /* Ensures the color doesn't change on hover */
+    color: white !important;  /* Ensures the color doesn't change on hover */
 }
 
 .page-header::before {
