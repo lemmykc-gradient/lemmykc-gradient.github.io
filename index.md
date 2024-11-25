@@ -12,8 +12,15 @@ layout: default
   </a>
 </p>
 
-<p style="text-align: center; font-size: 64px; margin-top: 30px; margin-bottom: 30px;">
+<!-- <p style="text-align: center; font-size: 64px; margin-top: 30px; margin-bottom: 30px;">
   <a href="https://aisafetyforum.au/program">Click for Forum Program</a>
+</p> -->
+
+<p style="text-align: center; font-size: 24px; margin-top: 30px; margin-bottom: 30px;">
+  Thank you to everyone who attended the inaugural Australian AI Safety Forum!
+</p>
+<p style="text-align: center;">
+  Event recordings will be made available soon. Please check back for updates.
 </p>
 
 # About the Forum
@@ -26,6 +33,9 @@ The forum takes the [Interim International Scientific Report on the Safety of Ad
 By grounding discussions in facts and stimulating dialogue among researchers, policymakers, and industry leaders, the forum seeks to establish an Australian community working on the challenges of technical AI safety and governance, with the intention of becoming a regular event. 
 By bringing together diverse perspectives, the forum aims to inspire new collaborations and serve as a starting point for those in Australia interested in contributing to AI safety.
 
+# Program
+
+The program for the 2024 Forum can be found [here](https://aisafetyforum.au/program). 
 
 # Key Details
 
@@ -79,12 +89,13 @@ A non-exhaustive list of topics for discussion includes:
 
 # Organisers
 This inaugural event is organised by the following committee: 
-- [Tiberio Caetano](https://www.gradientinstitute.org/about-us/team/tiberio-caetano/), [Gradient Institute](https://www.gradientinstitute.org). 
-- [Liam Carroll](https://www.gradientinstitute.org/about-us/team/liam-carroll/), [Gradient Institute](https://www.gradientinstitute.org) and [Timaeus](https://timaeus.co). 
-- [Daniel Murfet](http://therisingsea.org/), The University of Melbourne. 
-- Greg Sadler, [Good Ancestors Policy](https://www.goodancestors.org.au).
-- [Kim Weatherall](https://www.sydney.edu.au/law/about/our-people/academic-staff/kimberlee-weatherall.html), The University of Sydney. 
-- [Geordie Williamson](https://www.maths.usyd.edu.au/u/geordie/), The University of Sydney. 
+- [Tiberio Caetano](https://www.gradientinstitute.org/about-us/team/tiberio-caetano/), [Gradient Institute](https://www.gradientinstitute.org)
+- [Liam Carroll](https://www.gradientinstitute.org/about-us/team/liam-carroll/), [Gradient Institute](https://www.gradientinstitute.org) / [Timaeus](https://timaeus.co)
+- [Daniel Murfet](http://therisingsea.org/), The University of Melbourne
+- Greg Sadler, [Good Ancestors Policy](https://www.goodancestors.org.au)
+- [Alexander Saeri](https://www.aksaeri.com), The University of Queensland / MIT FutureTech
+- [Kim Weatherall](https://www.sydney.edu.au/law/about/our-people/academic-staff/kimberlee-weatherall.html), The University of Sydney
+- [Geordie Williamson](https://www.maths.usyd.edu.au/u/geordie/), The University of Sydney
 
 # Partners
 This event is made possible thanks to the support of the following organisations: 
