@@ -20,7 +20,7 @@ layout: default
   Thank you to everyone who attended the inaugural Australian AI Safety Forum!
 </p>
 <p style="text-align: center;">
-  Recordings of the talks on Day 1 can be found [here](https://youtube.com/playlist?list=PLPu7GaTnxbYxu4rV7tUDJjFB92aM8TjMi&feature=shared), and the full program can be found [here](https://aisafetyforum.au/program). 
+  Recordings of the talks on Day 1 can be found <a href="https://youtube.com/playlist?list=PLPu7GaTnxbYxu4rV7tUDJjFB92aM8TjMi&feature=shared">here</a>, and the full program can be found <a href="https://aisafetyforum.au/program">here</a>.
 </p>
 
 # About the Forum
